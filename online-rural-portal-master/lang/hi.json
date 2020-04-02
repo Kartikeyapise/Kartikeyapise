@@ -1,0 +1,23 @@
+{
+  "first_string": "यह पहला संदेश है",
+  "second_string": "यह पहला संदेश है",
+  "name" : "नाम",
+  "father's name": "पिता का नाम",
+  "Adhar Number": "अधार नंबर",
+  "Mobile Number": "मोबाइल नंबर",
+  "Mobile Number2": "मोबाइल नंबर 2",
+  "make a choice": "एक का चयन करो",
+  "gallery": "गेलरी",
+  "camera": "कैमरा",
+  "No image selected": "कोई छवि चयनित नहीं",
+  "Upload successful": "सफलतापूर्वक अपलोड हो गया",
+  "Form data":"फॉर्म डेटा",
+  "Capture Video":"वीडियो बनाओ",
+  "Select Image":"छवि चुने",
+  "Upload": "डालना",
+  "Register your problem":"अपनी समस्या दर्ज करें",
+  "Pincode": "पिन कोड",
+  "District Problems": "जिले की समस्याएं",
+  "View your problem": "अपनी समस्या देखें",
+  "General Awareness": "सामान्य जागरूकता"
+}
